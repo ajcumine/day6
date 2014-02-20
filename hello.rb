@@ -1,3 +1,4 @@
-def say_hello
-  puts "Hello!"
+name = "Andy"
+if name
+  puts "Hello, #{name}"
 end
